@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\nourm\Desktop\final bank system-malak\final bank system\final bank system\screens.h(52): warning C4715: 'Screens::loginas': not all control paths return a value
+C:\Users\nourm\Desktop\final bank system-malak\final bank system\final bank system\screens.h(83): warning C4715: 'Screens::logout': not all control paths return a value
+C:\Users\nourm\Desktop\final bank system-malak\final bank system\final bank system\employee.h(79): warning C4715: 'Employee::searchClient': not all control paths return a value
+C:\Users\nourm\Desktop\final bank system-malak\final bank system\final bank system\admin.h(54): warning C4715: 'Admin::searchemployee': not all control paths return a value
+  final bank system.vcxproj -> C:\Users\nourm\Desktop\final bank system-malak\final bank system\x64\Debug\final bank system.exe
